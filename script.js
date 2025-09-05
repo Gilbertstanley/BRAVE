@@ -1,8 +1,8 @@
 let details = {
     name: "Gilbert",
-    age: 26,
     country: "India",
     city: "Bangalore",
-    area: "Ejipura"
+    area: "Ejipura",
+    degree : "BE"
 }
 console.log(details)
